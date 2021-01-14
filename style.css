@@ -1,0 +1,29 @@
+.bg-header{
+    background-color: #FFFBF0;
+}
+.card-btn{
+    padding: 6px 20px;
+    border: none; 
+}
+.card-img{
+    background-color: #F1F1F1;
+}
+.product{
+    color: #363958;
+    font-weight: 800;
+}
+.footer{
+    background-color: #363958;
+
+}
+.footer-text{
+    color: white;
+}
+.submit-btn{
+    color: #363958;
+    padding: 6px 20px;
+}
+.copyright{
+  background-color:  #c7c3b8;
+  padding: 10px 0; 
+}
